@@ -147,7 +147,7 @@ h3 {
     line-height: 1.45;
     padding: 1em;
     font-size: 0.9rem;
-    overflow: scroll;
+    overflow-x: scroll;
 }
 
 .code span {
