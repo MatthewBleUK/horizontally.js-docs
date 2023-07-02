@@ -42,7 +42,8 @@ function Installation() {
 
             <p>
                 Horizontally.js is also available on NPM and can be installed
-                via the command line.
+                via the command line. When using NPM the CSS and JS files need
+                to be included/imported for the package to work correctly.
             </p>
 
             <pre className="code">
